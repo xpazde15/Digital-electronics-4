@@ -1,12 +1,8 @@
 # Digital-electronics-1
 
--I
--do 
--not
--know
--what
--I
--am
--doing
+x |y
+------------ | -------------
+prvni sloupec radek | druhy
+treti| ctvrtz
 
 *This text will be italic*
